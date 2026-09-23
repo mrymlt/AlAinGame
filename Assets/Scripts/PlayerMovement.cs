@@ -20,7 +20,7 @@ public class PlayerMovement : MonoBehaviour
     [Header("Feel")]
     
     public float coyoteTime = 0.1f;
-    [Tooltip("If jump is pressed shortly before landing, it still fires the moment you land.")]
+
     public float jumpBufferTime = 0.1f;
    
     public float postJumpGroundIgnoreTime = 0.1f;
