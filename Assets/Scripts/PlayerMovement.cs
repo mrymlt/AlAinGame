@@ -18,11 +18,11 @@ public class PlayerMovement : MonoBehaviour
     public float lowJumpGravityMultiplier = 1.8f;
 
     [Header("Feel")]
-    
+
     public float coyoteTime = 0.1f;
 
     public float jumpBufferTime = 0.1f;
-   
+
     public float postJumpGroundIgnoreTime = 0.1f;
 
     [Header("Controls")]
@@ -52,14 +52,22 @@ public class PlayerMovement : MonoBehaviour
 
     public float cameraFollowSpeed = 8f;
 
+    public float interactAnimDuration = 0.3f;
+    private float interactTimer;
+
+    private Animator animator;
+    private SpriteRenderer spriteRenderer;
+
     void Start()
     {
         rb = GetComponent<Rigidbody2D>();
         ownColliders = GetComponents<Collider2D>();
+        animator = GetComponent<Animator>();
+        spriteRenderer = GetComponent<SpriteRenderer>();
         maxJumps = Mathf.Max(1, maxJumps);
         jumpsRemaining = maxJumps;
 
-        
+        animator.applyRootMotion = false;
         rb.interpolation = RigidbodyInterpolation2D.Interpolate;
 
         if (autoDetectMobile && IsMobileRuntime())
@@ -71,7 +79,7 @@ public class PlayerMovement : MonoBehaviour
     private bool IsMobileRuntime()
     {
         // Application.isMobilePlatform misses mobile browsers running the WebGL build,
-        
+
         if (Application.isMobilePlatform) return true;
         return Touchscreen.current != null && Mouse.current == null;
     }
@@ -97,12 +105,45 @@ public class PlayerMovement : MonoBehaviour
             jumpBufferTimer -= Time.deltaTime;
         }
 
-        
+
         if (jumpBufferTimer > 0f && jumpsRemaining > 0)
         {
             TryJump();
             jumpBufferTimer = 0f;
         }
+
+        if (interactTimer > 0f)
+        {
+            interactTimer -= Time.deltaTime;
+        }
+
+        UpdateFacing();
+        UpdateAnimator();
+    }
+
+    private void UpdateFacing()
+    {
+        if (moveInput.x > 0.01f)
+        {
+            spriteRenderer.flipX = false;
+        }
+        else if (moveInput.x < -0.01f)
+        {
+            spriteRenderer.flipX = true;
+        }
+    }
+
+    private void UpdateAnimator()
+    {
+        animator.SetBool("isGrounded", isGrounded);
+        animator.SetBool("isWalking", isGrounded && Mathf.Abs(moveInput.x) > 0.01f);
+        animator.SetBool("isInteracting", interactTimer > 0f);
+        animator.SetFloat("y_velocity", rb.linearVelocity.y);
+    }
+
+    public void TriggerInteract()
+    {
+        interactTimer = interactAnimDuration;
     }
 
     void FixedUpdate()
@@ -117,7 +158,7 @@ public class PlayerMovement : MonoBehaviour
 
         rb.linearVelocity = new Vector2(moveInput.x * playerSpeed, rb.linearVelocity.y);
 
-       
+
         if (rb.linearVelocity.y < 0f)
         {
             rb.linearVelocity += Vector2.up * Physics2D.gravity.y * (fallGravityMultiplier - 1f) * Time.fixedDeltaTime;
@@ -142,7 +183,7 @@ public class PlayerMovement : MonoBehaviour
 
         if (isGrounded)
         {
-          
+
             jumpsRemaining = maxJumps;
             coyoteTimer = coyoteTime;
         }
@@ -164,7 +205,7 @@ public class PlayerMovement : MonoBehaviour
             return;
         }
 
-        
+
         if (Keyboard.current != null)
         {
             float x = 0f;
@@ -182,7 +223,7 @@ public class PlayerMovement : MonoBehaviour
 
     private void TryJump()
     {
-     
+
         bool usingCoyote = !isGrounded && coyoteTimer > 0f;
         if (jumpsRemaining <= 0)
         {
@@ -219,7 +260,7 @@ public class PlayerMovement : MonoBehaviour
         }
     }
 
-    // Mobile UI 
+    // Mobile UI
     public void MobileLeftDown() => mobileLeftHeld = true;
     public void MobileLeftUp() => mobileLeftHeld = false;
     public void MobileRightDown() => mobileRightHeld = true;
@@ -242,7 +283,7 @@ public class PlayerMovement : MonoBehaviour
             return true;
         }
 
-        
+
         if (groundLayer.value == 0)
         {
             hitCount = Physics2D.OverlapCircleNonAlloc(checkPosition, groundCheckRadius, groundHits);
@@ -304,6 +345,7 @@ public class PlayerMovement : MonoBehaviour
         jumpBufferTimer = 0f;
         mobileLeftHeld = false;
         mobileRightHeld = false;
+        interactTimer = 0f;
     }
     void LateUpdate()
     {
@@ -311,7 +353,7 @@ public class PlayerMovement : MonoBehaviour
 
         Vector3 targetPosition = new Vector3(transform.position.x, transform.position.y, cameraTarget.position.z);
 
-       
+
         float t = 1f - Mathf.Exp(-cameraFollowSpeed * Time.deltaTime);
         cameraTarget.position = Vector3.Lerp(cameraTarget.position, targetPosition, t);
     }
