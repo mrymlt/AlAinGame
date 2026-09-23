@@ -355,8 +355,10 @@ MonoBehaviour:
     serializedVersion: 2
     m_Bits: 8
   groundCheck: {fileID: 47870975}
-  isPaused: 1
+  jumpForce: 10
+  isPaused: 0
   camera: {fileID: 519420028}
+  jumpHeight: 5
 --- !u!114 &163192556
 MonoBehaviour:
   m_ObjectHideFlags: 0
