@@ -7,7 +7,6 @@ public class PlayerMovement : MonoBehaviour
 {
     [Header("Movement")]
     public float playerSpeed = 5f;
-    public float runSpeedMultiplier = 1.6f;
 
     [Header("Jump")]
     public LayerMask groundLayer;
@@ -18,6 +17,14 @@ public class PlayerMovement : MonoBehaviour
     public float fallGravityMultiplier = 2.2f;
     public float lowJumpGravityMultiplier = 1.8f;
 
+    [Header("Feel")]
+    
+    public float coyoteTime = 0.1f;
+    [Tooltip("If jump is pressed shortly before landing, it still fires the moment you land.")]
+    public float jumpBufferTime = 0.1f;
+   
+    public float postJumpGroundIgnoreTime = 0.1f;
+
     [Header("Controls")]
     public Controls currentControls = Controls.pc;
     public bool autoDetectMobile = true;
@@ -25,20 +32,25 @@ public class PlayerMovement : MonoBehaviour
     private Rigidbody2D rb;
     private Collider2D[] ownColliders;
     private readonly Collider2D[] groundHits = new Collider2D[12];
-    private bool isGroundedBool;
-    private bool wasGroundedLastFrame;
+
+    private bool isGrounded;
     private int jumpsRemaining;
+
+    private float coyoteTimer;
+    private float jumpBufferTimer;
+    private float postJumpIgnoreTimer;
+
     private Vector2 moveInput;
-    private bool runHeld;
     private bool jumpQueued;
 
     // Mobile button state (set by UI events)
     private bool mobileLeftHeld;
     private bool mobileRightHeld;
-    private bool mobileRunHeld;
 
     public bool isPaused = false;
-    public GameObject camera;
+    public Transform cameraTarget;
+
+    public float cameraFollowSpeed = 8f;
 
     void Start()
     {
@@ -47,10 +59,21 @@ public class PlayerMovement : MonoBehaviour
         maxJumps = Mathf.Max(1, maxJumps);
         jumpsRemaining = maxJumps;
 
-        if (autoDetectMobile && Application.isMobilePlatform)
+        
+        rb.interpolation = RigidbodyInterpolation2D.Interpolate;
+
+        if (autoDetectMobile && IsMobileRuntime())
         {
             currentControls = Controls.mobile;
         }
+    }
+
+    private bool IsMobileRuntime()
+    {
+        // Application.isMobilePlatform misses mobile browsers running the WebGL build,
+        
+        if (Application.isMobilePlatform) return true;
+        return Touchscreen.current != null && Mouse.current == null;
     }
 
     void Update()
@@ -58,24 +81,27 @@ public class PlayerMovement : MonoBehaviour
         if (isPaused)
         {
             moveInput = Vector2.zero;
-            runHeld = false;
             jumpQueued = false;
             return;
         }
 
         ReadControls();
-        isGroundedBool = IsGrounded();
-
-        if (isGroundedBool && !wasGroundedLastFrame)
-        {
-            jumpsRemaining = maxJumps;
-        }
-        wasGroundedLastFrame = isGroundedBool;
 
         if (jumpQueued)
         {
-            TryJump();
+            jumpBufferTimer = jumpBufferTime;
             jumpQueued = false;
+        }
+        else
+        {
+            jumpBufferTimer -= Time.deltaTime;
+        }
+
+        
+        if (jumpBufferTimer > 0f && jumpsRemaining > 0)
+        {
+            TryJump();
+            jumpBufferTimer = 0f;
         }
     }
 
@@ -87,10 +113,11 @@ public class PlayerMovement : MonoBehaviour
             return;
         }
 
-        float speed = playerSpeed * (runHeld ? runSpeedMultiplier : 1f);
-        rb.linearVelocity = new Vector2(moveInput.x * speed, rb.linearVelocity.y);
+        UpdateGroundedState();
 
-        // Sharpen jump arc: stronger gravity while falling or when jump is released.
+        rb.linearVelocity = new Vector2(moveInput.x * playerSpeed, rb.linearVelocity.y);
+
+       
         if (rb.linearVelocity.y < 0f)
         {
             rb.linearVelocity += Vector2.up * Physics2D.gravity.y * (fallGravityMultiplier - 1f) * Time.fixedDeltaTime;
@@ -98,6 +125,30 @@ public class PlayerMovement : MonoBehaviour
         else if (rb.linearVelocity.y > 0f && !IsJumpHeld())
         {
             rb.linearVelocity += Vector2.up * Physics2D.gravity.y * (lowJumpGravityMultiplier - 1f) * Time.fixedDeltaTime;
+        }
+    }
+
+    private void UpdateGroundedState()
+    {
+        if (postJumpIgnoreTimer > 0f)
+        {
+            postJumpIgnoreTimer -= Time.fixedDeltaTime;
+            isGrounded = false;
+        }
+        else
+        {
+            isGrounded = CheckGroundOverlap();
+        }
+
+        if (isGrounded)
+        {
+          
+            jumpsRemaining = maxJumps;
+            coyoteTimer = coyoteTime;
+        }
+        else
+        {
+            coyoteTimer -= Time.fixedDeltaTime;
         }
     }
 
@@ -110,11 +161,10 @@ public class PlayerMovement : MonoBehaviour
             if (mobileRightHeld) x += 1f;
 
             moveInput = new Vector2(Mathf.Clamp(x, -1f, 1f), 0f);
-            runHeld = mobileRunHeld;
             return;
         }
 
-        // Keyboard fallback for PC/Web builds.
+        
         if (Keyboard.current != null)
         {
             float x = 0f;
@@ -122,7 +172,6 @@ public class PlayerMovement : MonoBehaviour
             if (Keyboard.current.dKey.isPressed || Keyboard.current.rightArrowKey.isPressed) x += 1f;
 
             moveInput = new Vector2(Mathf.Clamp(x, -1f, 1f), 0f);
-            runHeld = Keyboard.current.leftShiftKey.isPressed || Keyboard.current.rightShiftKey.isPressed;
 
             if (Keyboard.current.spaceKey.wasPressedThisFrame || Keyboard.current.wKey.wasPressedThisFrame || Keyboard.current.upArrowKey.wasPressedThisFrame)
             {
@@ -133,6 +182,8 @@ public class PlayerMovement : MonoBehaviour
 
     private void TryJump()
     {
+     
+        bool usingCoyote = !isGrounded && coyoteTimer > 0f;
         if (jumpsRemaining <= 0)
         {
             return;
@@ -141,8 +192,15 @@ public class PlayerMovement : MonoBehaviour
         rb.linearVelocity = new Vector2(rb.linearVelocity.x, 0f);
         rb.AddForce(Vector2.up * jumpForce, ForceMode2D.Impulse);
         jumpsRemaining--;
-    }
 
+        if (isGrounded || usingCoyote)
+        {
+            coyoteTimer = 0f;
+        }
+
+        postJumpIgnoreTimer = postJumpGroundIgnoreTime;
+        isGrounded = false;
+    }
 
     public void OnMove(InputValue value)
     {
@@ -150,14 +208,6 @@ public class PlayerMovement : MonoBehaviour
         if (currentControls == Controls.pc)
         {
             moveInput = new Vector2(v.x, 0f);
-        }
-    }
-
-    public void OnRun(InputValue value)
-    {
-        if (currentControls == Controls.pc)
-        {
-            runHeld = value.isPressed;
         }
     }
 
@@ -169,13 +219,11 @@ public class PlayerMovement : MonoBehaviour
         }
     }
 
-    // Mobile UI button hooks
+    // Mobile UI 
     public void MobileLeftDown() => mobileLeftHeld = true;
     public void MobileLeftUp() => mobileLeftHeld = false;
     public void MobileRightDown() => mobileRightHeld = true;
     public void MobileRightUp() => mobileRightHeld = false;
-    public void MobileRunDown() => mobileRunHeld = true;
-    public void MobileRunUp() => mobileRunHeld = false;
     public void MobileJump()
     {
         if (currentControls == Controls.mobile)
@@ -184,18 +232,17 @@ public class PlayerMovement : MonoBehaviour
         }
     }
 
-    private bool IsGrounded()
+    private bool CheckGroundOverlap()
     {
         Vector2 checkPosition = groundCheck != null ? (Vector2)groundCheck.position : (Vector2)transform.position;
 
-        // Primary check uses assigned ground layer.
         int hitCount = Physics2D.OverlapCircleNonAlloc(checkPosition, groundCheckRadius, groundHits, groundLayer);
         if (HasValidGroundHit(hitCount))
         {
             return true;
         }
 
-        // Fallback when groundLayer is not configured: check any collider except self/trigger.
+        
         if (groundLayer.value == 0)
         {
             hitCount = Physics2D.OverlapCircleNonAlloc(checkPosition, groundCheckRadius, groundHits);
@@ -251,7 +298,12 @@ public class PlayerMovement : MonoBehaviour
 
     void LateUpdate()
     {
-        Vector3 targetPosition = new Vector3(transform.position.x, transform.position.y, camera.transform.position.z);
-        camera.transform.position = Vector3.Lerp(camera.transform.position, targetPosition, Time.deltaTime * 5f);
+        if (cameraTarget == null) return;
+
+        Vector3 targetPosition = new Vector3(transform.position.x, transform.position.y, cameraTarget.position.z);
+
+       
+        float t = 1f - Mathf.Exp(-cameraFollowSpeed * Time.deltaTime);
+        cameraTarget.position = Vector3.Lerp(cameraTarget.position, targetPosition, t);
     }
 }
