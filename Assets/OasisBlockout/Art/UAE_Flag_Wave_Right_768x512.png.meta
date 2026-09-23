@@ -1,0 +1,559 @@
+fileFormatVersion: 2
+guid: ccc1c8ea94f1a1f459548701f476788c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2860245277890978287
+    second: UAE_Flag_Wave_Right_768x512_0
+  - first:
+      213: 6669764100607369760
+    second: UAE_Flag_Wave_Right_768x512_1
+  - first:
+      213: 5745183184377065763
+    second: UAE_Flag_Wave_Right_768x512_2
+  - first:
+      213: 1507401811684530443
+    second: UAE_Flag_Wave_Right_768x512_3
+  - first:
+      213: 7068111344711994692
+    second: UAE_Flag_Wave_Right_768x512_4
+  - first:
+      213: 1203448132632193889
+    second: UAE_Flag_Wave_Right_768x512_5
+  - first:
+      213: -1596145627072511223
+    second: UAE_Flag_Wave_Right_768x512_6
+  - first:
+      213: 140726971349228277
+    second: UAE_Flag_Wave_Right_768x512_7
+  - first:
+      213: 8312618601926991040
+    second: UAE_Flag_Wave_Right_768x512_8
+  - first:
+      213: 2072734297586607137
+    second: UAE_Flag_Wave_Right_768x512_9
+  - first:
+      213: 4714057756585831080
+    second: UAE_Flag_Wave_Right_768x512_10
+  - first:
+      213: -3954907906402767867
+    second: UAE_Flag_Wave_Right_768x512_11
+  - first:
+      213: 4807796104172013484
+    second: UAE_Flag_Wave_Right_768x512_12
+  - first:
+      213: -4056463570292974097
+    second: UAE_Flag_Wave_Right_768x512_13
+  - first:
+      213: 1187058468173118988
+    second: UAE_Flag_Wave_Right_768x512_14
+  - first:
+      213: -744692235314608296
+    second: UAE_Flag_Wave_Right_768x512_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 512
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: UAE_Flag_Wave_Right_768x512_0
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 489
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11ed1d0f21e5e48d0800000000000000
+      internalID: -2860245277890978287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UAE_Flag_Wave_Right_768x512_1
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 490
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 022ea509c13cf8c50800000000000000
+      internalID: 6669764100607369760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UAE_Flag_Wave_Right_768x512_2
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 479
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 321b75abaadfabf40800000000000000
+      internalID: 5745183184377065763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UAE_Flag_Wave_Right_768x512_3
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 478
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b099c3f06fd5be410800000000000000
+      internalID: 1507401811684530443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UAE_Flag_Wave_Right_768x512_4
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 489
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44d877ec1d9f61260800000000000000
+      internalID: 7068111344711994692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UAE_Flag_Wave_Right_768x512_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 31
+        width: 752
+        height: 457
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16b262353b183b010800000000000000
+      internalID: 1203448132632193889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UAE_Flag_Wave_Right_768x512_6
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 472
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 903cc88420a59d9e0800000000000000
+      internalID: -1596145627072511223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UAE_Flag_Wave_Right_768x512_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 233
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fa56915f66f3f100800000000000000
+      internalID: 140726971349228277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UAE_Flag_Wave_Right_768x512_8
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 62
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cc9929839a5c5370800000000000000
+      internalID: 8312618601926991040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UAE_Flag_Wave_Right_768x512_9
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 22
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1242b61acd4d3cc10800000000000000
+      internalID: 2072734297586607137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UAE_Flag_Wave_Right_768x512_10
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 31
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8aa29ffad82bb6140800000000000000
+      internalID: 4714057756585831080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UAE_Flag_Wave_Right_768x512_11
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 36
+        width: 25
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50caa7f86385d19c0800000000000000
+      internalID: -3954907906402767867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UAE_Flag_Wave_Right_768x512_12
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 16
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca70ead7519b8b240800000000000000
+      internalID: 4807796104172013484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UAE_Flag_Wave_Right_768x512_13
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 12
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: feddf58ffdb84b7c0800000000000000
+      internalID: -4056463570292974097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UAE_Flag_Wave_Right_768x512_14
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 10
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0ef3133367497010800000000000000
+      internalID: 1187058468173118988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UAE_Flag_Wave_Right_768x512_15
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 8
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 857c4178b525aa5f0800000000000000
+      internalID: -744692235314608296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      UAE_Flag_Wave_Right_768x512_0: -2860245277890978287
+      UAE_Flag_Wave_Right_768x512_1: 6669764100607369760
+      UAE_Flag_Wave_Right_768x512_10: 4714057756585831080
+      UAE_Flag_Wave_Right_768x512_11: -3954907906402767867
+      UAE_Flag_Wave_Right_768x512_12: 4807796104172013484
+      UAE_Flag_Wave_Right_768x512_13: -4056463570292974097
+      UAE_Flag_Wave_Right_768x512_14: 1187058468173118988
+      UAE_Flag_Wave_Right_768x512_15: -744692235314608296
+      UAE_Flag_Wave_Right_768x512_2: 5745183184377065763
+      UAE_Flag_Wave_Right_768x512_3: 1507401811684530443
+      UAE_Flag_Wave_Right_768x512_4: 7068111344711994692
+      UAE_Flag_Wave_Right_768x512_5: 1203448132632193889
+      UAE_Flag_Wave_Right_768x512_6: -1596145627072511223
+      UAE_Flag_Wave_Right_768x512_7: 140726971349228277
+      UAE_Flag_Wave_Right_768x512_8: 8312618601926991040
+      UAE_Flag_Wave_Right_768x512_9: 2072734297586607137
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

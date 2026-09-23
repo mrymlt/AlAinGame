@@ -1,0 +1,1703 @@
+fileFormatVersion: 2
+guid: 0c9e3c78ccf54fb41bba5d0f9d4d3b90
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4767729399839884065
+    second: 06_Ramp_Down_Exit_512_0
+  - first:
+      213: -4413637989117362579
+    second: 06_Ramp_Down_Exit_512_1
+  - first:
+      213: 2818855036673479647
+    second: 06_Ramp_Down_Exit_512_2
+  - first:
+      213: -8589712709350644291
+    second: 06_Ramp_Down_Exit_512_3
+  - first:
+      213: 58528179251967365
+    second: 06_Ramp_Down_Exit_512_4
+  - first:
+      213: -7064170379422382775
+    second: 06_Ramp_Down_Exit_512_5
+  - first:
+      213: 4138046378687141267
+    second: 06_Ramp_Down_Exit_512_6
+  - first:
+      213: 9093798368842370201
+    second: 06_Ramp_Down_Exit_512_7
+  - first:
+      213: -2833114889404288927
+    second: 06_Ramp_Down_Exit_512_8
+  - first:
+      213: 7019162167586049174
+    second: 06_Ramp_Down_Exit_512_9
+  - first:
+      213: -3615727530649593411
+    second: 06_Ramp_Down_Exit_512_10
+  - first:
+      213: 5342846897378914397
+    second: 06_Ramp_Down_Exit_512_11
+  - first:
+      213: -8575207894547638715
+    second: 06_Ramp_Down_Exit_512_12
+  - first:
+      213: -2113781992293495984
+    second: 06_Ramp_Down_Exit_512_13
+  - first:
+      213: -3388662091461545909
+    second: 06_Ramp_Down_Exit_512_14
+  - first:
+      213: 3992375294017305070
+    second: 06_Ramp_Down_Exit_512_15
+  - first:
+      213: 7353349235910684135
+    second: 06_Ramp_Down_Exit_512_16
+  - first:
+      213: 6656277050244851498
+    second: 06_Ramp_Down_Exit_512_17
+  - first:
+      213: -4287032070343558856
+    second: 06_Ramp_Down_Exit_512_18
+  - first:
+      213: 5732988571088506902
+    second: 06_Ramp_Down_Exit_512_19
+  - first:
+      213: 4296143945919073582
+    second: 06_Ramp_Down_Exit_512_20
+  - first:
+      213: -4384125306519277140
+    second: 06_Ramp_Down_Exit_512_21
+  - first:
+      213: -1048985939953786398
+    second: 06_Ramp_Down_Exit_512_22
+  - first:
+      213: -2208443862104892109
+    second: 06_Ramp_Down_Exit_512_23
+  - first:
+      213: 4717190165537356580
+    second: 06_Ramp_Down_Exit_512_24
+  - first:
+      213: 6470637148691743224
+    second: 06_Ramp_Down_Exit_512_25
+  - first:
+      213: 1651920081749575086
+    second: 06_Ramp_Down_Exit_512_26
+  - first:
+      213: -8605673415449521474
+    second: 06_Ramp_Down_Exit_512_27
+  - first:
+      213: -4015124114730437250
+    second: 06_Ramp_Down_Exit_512_28
+  - first:
+      213: 2840356808786686282
+    second: 06_Ramp_Down_Exit_512_29
+  - first:
+      213: 2652685986030273115
+    second: 06_Ramp_Down_Exit_512_30
+  - first:
+      213: -6667972940079639278
+    second: 06_Ramp_Down_Exit_512_31
+  - first:
+      213: 5875190265073220895
+    second: 06_Ramp_Down_Exit_512_32
+  - first:
+      213: 3447031938631212279
+    second: 06_Ramp_Down_Exit_512_33
+  - first:
+      213: -4766812213893451914
+    second: 06_Ramp_Down_Exit_512_34
+  - first:
+      213: -9065128755894390432
+    second: 06_Ramp_Down_Exit_512_35
+  - first:
+      213: -6322477648832174388
+    second: 06_Ramp_Down_Exit_512_36
+  - first:
+      213: 9159029773186478269
+    second: 06_Ramp_Down_Exit_512_37
+  - first:
+      213: 546833027248405662
+    second: 06_Ramp_Down_Exit_512_38
+  - first:
+      213: 4843110644577861016
+    second: 06_Ramp_Down_Exit_512_39
+  - first:
+      213: -5901151316592937394
+    second: 06_Ramp_Down_Exit_512_40
+  - first:
+      213: 2171661174276718469
+    second: 06_Ramp_Down_Exit_512_41
+  - first:
+      213: -2873384042728762172
+    second: 06_Ramp_Down_Exit_512_42
+  - first:
+      213: -5969829806419690138
+    second: 06_Ramp_Down_Exit_512_43
+  - first:
+      213: 2872543313691557024
+    second: 06_Ramp_Down_Exit_512_44
+  - first:
+      213: 2190675344672803428
+    second: 06_Ramp_Down_Exit_512_45
+  - first:
+      213: 3418914153521768483
+    second: 06_Ramp_Down_Exit_512_46
+  - first:
+      213: 3121484819899764123
+    second: 06_Ramp_Down_Exit_512_47
+  - first:
+      213: 7274917625481235333
+    second: 06_Ramp_Down_Exit_512_48
+  - first:
+      213: 7259856569538071667
+    second: 06_Ramp_Down_Exit_512_49
+  - first:
+      213: -1893727506495677095
+    second: 06_Ramp_Down_Exit_512_50
+  - first:
+      213: -6742129818839352414
+    second: 06_Ramp_Down_Exit_512_51
+  - first:
+      213: -5770263066758084355
+    second: 06_Ramp_Down_Exit_512_52
+  - first:
+      213: -7282591667951724488
+    second: 06_Ramp_Down_Exit_512_53
+  - first:
+      213: -1967613370790296741
+    second: 06_Ramp_Down_Exit_512_54
+  - first:
+      213: 3673937450241050510
+    second: 06_Ramp_Down_Exit_512_55
+  - first:
+      213: 4543198564862171501
+    second: 06_Ramp_Down_Exit_512_56
+  - first:
+      213: 5114769450011426974
+    second: 06_Ramp_Down_Exit_512_57
+  - first:
+      213: -260005342639573778
+    second: 06_Ramp_Down_Exit_512_58
+  - first:
+      213: -2055724195465418575
+    second: 06_Ramp_Down_Exit_512_59
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 512
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 06_Ramp_Down_Exit_512_0
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 416
+        width: 67
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdc7b511f5f95ddb0800000000000000
+      internalID: -4767729399839884065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 06_Ramp_Down_Exit_512_1
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 480
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6e7d7322ab9fb2c0800000000000000
+      internalID: -4413637989117362579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 06_Ramp_Down_Exit_512_2
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 436
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd35e3e88b59e1720800000000000000
+      internalID: 2818855036673479647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 06_Ramp_Down_Exit_512_3
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 462
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db52f741dc53bc880800000000000000
+      internalID: -8589712709350644291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 06_Ramp_Down_Exit_512_4
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 455
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 585f9a5a11fefc000800000000000000
+      internalID: 58528179251967365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 06_Ramp_Down_Exit_512_5
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 428
+        width: 45
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94541bda77607fd90800000000000000
+      internalID: -7064170379422382775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 06_Ramp_Down_Exit_512_6
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 447
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3951db1d14b4d6930800000000000000
+      internalID: 4138046378687141267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 06_Ramp_Down_Exit_512_7
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 433
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99c40e97f69a33e70800000000000000
+      internalID: 9093798368842370201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 06_Ramp_Down_Exit_512_8
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 444
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 160ff21c401cea8d0800000000000000
+      internalID: -2833114889404288927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 06_Ramp_Down_Exit_512_9
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 437
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69cc3d36dc2196160800000000000000
+      internalID: 7019162167586049174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 06_Ramp_Down_Exit_512_10
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 428
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db9d703c7fa52ddc0800000000000000
+      internalID: -3615727530649593411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 06_Ramp_Down_Exit_512_11
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 418
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d50719f02fa952a40800000000000000
+      internalID: 5342846897378914397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 06_Ramp_Down_Exit_512_12
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 418
+        width: 41
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 546dc527addbef880800000000000000
+      internalID: -8575207894547638715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 06_Ramp_Down_Exit_512_13
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 428
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05b8ab03a765aa2e0800000000000000
+      internalID: -2113781992293495984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 06_Ramp_Down_Exit_512_14
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 416
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b403a9e18cd09f0d0800000000000000
+      internalID: -3388662091461545909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 06_Ramp_Down_Exit_512_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 388
+        width: 33
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee972f96d24c76730800000000000000
+      internalID: 3992375294017305070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 06_Ramp_Down_Exit_512_16
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 406
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7eda8db9b285c0660800000000000000
+      internalID: 7353349235910684135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 06_Ramp_Down_Exit_512_17
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 404
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a27ed62f5b8df5c50800000000000000
+      internalID: 6656277050244851498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 06_Ramp_Down_Exit_512_18
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 404
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 839f672bb076184c0800000000000000
+      internalID: -4287032070343558856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 06_Ramp_Down_Exit_512_19
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 370
+        width: 35
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 610da111bbaaf8f40800000000000000
+      internalID: 5732988571088506902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 06_Ramp_Down_Exit_512_20
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 406
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2d83782828fe9b30800000000000000
+      internalID: 4296143945919073582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 06_Ramp_Down_Exit_512_21
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 378
+        width: 39
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca13e1603457823c0800000000000000
+      internalID: -4384125306519277140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 06_Ramp_Down_Exit_512_22
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 384
+        width: 27
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e1ecaa68d04171f0800000000000000
+      internalID: -1048985939953786398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 06_Ramp_Down_Exit_512_23
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 361
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33d98dc12080a51e0800000000000000
+      internalID: -2208443862104892109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 06_Ramp_Down_Exit_512_24
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 380
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42bf1da7673d67140800000000000000
+      internalID: 4717190165537356580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 06_Ramp_Down_Exit_512_25
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 379
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f1c73e24325cc950800000000000000
+      internalID: 6470637148691743224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 06_Ramp_Down_Exit_512_26
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 383
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea58406ef8ccce610800000000000000
+      internalID: 1651920081749575086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 06_Ramp_Down_Exit_512_27
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 361
+        width: 26
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb2db1b9f91829880800000000000000
+      internalID: -8605673415449521474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 06_Ramp_Down_Exit_512_28
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 378
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e75336404e96748c0800000000000000
+      internalID: -4015124114730437250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 06_Ramp_Down_Exit_512_29
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 384
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a41b71ff779fa6720800000000000000
+      internalID: 2840356808786686282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 06_Ramp_Down_Exit_512_30
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 340
+        width: 8
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b52cdf989db30d420800000000000000
+      internalID: 2652685986030273115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 06_Ramp_Down_Exit_512_31
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 331
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 215d2ae70f99673a0800000000000000
+      internalID: -6667972940079639278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 06_Ramp_Down_Exit_512_32
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 312
+        width: 47
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1db5810b6ed88150800000000000000
+      internalID: 5875190265073220895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 06_Ramp_Down_Exit_512_33
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 352
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fc1a87f84156df20800000000000000
+      internalID: 3447031938631212279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 06_Ramp_Down_Exit_512_34
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 342
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67f23ef0c81e8ddb0800000000000000
+      internalID: -4766812213893451914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 06_Ramp_Down_Exit_512_35
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 347
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0617cb5fc61323280800000000000000
+      internalID: -9065128755894390432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 06_Ramp_Down_Exit_512_36
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 345
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc6e209831c0248a0800000000000000
+      internalID: -6322477648832174388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 06_Ramp_Down_Exit_512_37
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 345
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db0b1065d096b1f70800000000000000
+      internalID: 9159029773186478269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 06_Ramp_Down_Exit_512_38
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 359
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9cb794bdbdb69700800000000000000
+      internalID: 546833027248405662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 06_Ramp_Down_Exit_512_39
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 307
+        width: 39
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89df9f9a87f263340800000000000000
+      internalID: 4843110644577861016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 06_Ramp_Down_Exit_512_40
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 283
+        width: 61
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4636a8a426ea1ea0800000000000000
+      internalID: -5901151316592937394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 06_Ramp_Down_Exit_512_41
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 366
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58f7541055a432e10800000000000000
+      internalID: 2171661174276718469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 06_Ramp_Down_Exit_512_42
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 359
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c450eddf60bf18d0800000000000000
+      internalID: -2873384042728762172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 06_Ramp_Down_Exit_512_43
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 312
+        width: 49
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66db0daab67e62da0800000000000000
+      internalID: -5969829806419690138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 06_Ramp_Down_Exit_512_44
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 364
+        width: 8
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ac3286ace25dd720800000000000000
+      internalID: 2872543313691557024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 06_Ramp_Down_Exit_512_45
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 333
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46acd698e97d66e10800000000000000
+      internalID: 2190675344672803428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 06_Ramp_Down_Exit_512_46
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 361
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3286836fe4c627f20800000000000000
+      internalID: 3418914153521768483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 06_Ramp_Down_Exit_512_47
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 324
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9d46e5c7edb15b20800000000000000
+      internalID: 3121484819899764123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 06_Ramp_Down_Exit_512_48
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 324
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58b89054903b5f460800000000000000
+      internalID: 7274917625481235333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 06_Ramp_Down_Exit_512_49
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 307
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37c4a9be51130c460800000000000000
+      internalID: 7259856569538071667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 06_Ramp_Down_Exit_512_50
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 314
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95d50f1cdd028b5e0800000000000000
+      internalID: -1893727506495677095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 06_Ramp_Down_Exit_512_51
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 309
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2abf28ea6a42f62a0800000000000000
+      internalID: -6742129818839352414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 06_Ramp_Down_Exit_512_52
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 312
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df8045d1058ebefa0800000000000000
+      internalID: -5770263066758084355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 06_Ramp_Down_Exit_512_53
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 295
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 838948b76790fea90800000000000000
+      internalID: -7282591667951724488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 06_Ramp_Down_Exit_512_54
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 293
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b534cba6012a1b4e0800000000000000
+      internalID: -1967613370790296741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 06_Ramp_Down_Exit_512_55
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 260
+        width: 29
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e874f9845a27cf230800000000000000
+      internalID: 3673937450241050510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 06_Ramp_Down_Exit_512_56
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 276
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d699caa160fac0f30800000000000000
+      internalID: 4543198564862171501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 06_Ramp_Down_Exit_512_57
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 271
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9083ff27bf4bf640800000000000000
+      internalID: 5114769450011426974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 06_Ramp_Down_Exit_512_58
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 257
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee4b348b486446cf0800000000000000
+      internalID: -260005342639573778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 06_Ramp_Down_Exit_512_59
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 512
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b8ab156cb99873e0800000000000000
+      internalID: -2055724195465418575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      06_Ramp_Down_Exit_512_0: -4767729399839884065
+      06_Ramp_Down_Exit_512_1: -4413637989117362579
+      06_Ramp_Down_Exit_512_10: -3615727530649593411
+      06_Ramp_Down_Exit_512_11: 5342846897378914397
+      06_Ramp_Down_Exit_512_12: -8575207894547638715
+      06_Ramp_Down_Exit_512_13: -2113781992293495984
+      06_Ramp_Down_Exit_512_14: -3388662091461545909
+      06_Ramp_Down_Exit_512_15: 3992375294017305070
+      06_Ramp_Down_Exit_512_16: 7353349235910684135
+      06_Ramp_Down_Exit_512_17: 6656277050244851498
+      06_Ramp_Down_Exit_512_18: -4287032070343558856
+      06_Ramp_Down_Exit_512_19: 5732988571088506902
+      06_Ramp_Down_Exit_512_2: 2818855036673479647
+      06_Ramp_Down_Exit_512_20: 4296143945919073582
+      06_Ramp_Down_Exit_512_21: -4384125306519277140
+      06_Ramp_Down_Exit_512_22: -1048985939953786398
+      06_Ramp_Down_Exit_512_23: -2208443862104892109
+      06_Ramp_Down_Exit_512_24: 4717190165537356580
+      06_Ramp_Down_Exit_512_25: 6470637148691743224
+      06_Ramp_Down_Exit_512_26: 1651920081749575086
+      06_Ramp_Down_Exit_512_27: -8605673415449521474
+      06_Ramp_Down_Exit_512_28: -4015124114730437250
+      06_Ramp_Down_Exit_512_29: 2840356808786686282
+      06_Ramp_Down_Exit_512_3: -8589712709350644291
+      06_Ramp_Down_Exit_512_30: 2652685986030273115
+      06_Ramp_Down_Exit_512_31: -6667972940079639278
+      06_Ramp_Down_Exit_512_32: 5875190265073220895
+      06_Ramp_Down_Exit_512_33: 3447031938631212279
+      06_Ramp_Down_Exit_512_34: -4766812213893451914
+      06_Ramp_Down_Exit_512_35: -9065128755894390432
+      06_Ramp_Down_Exit_512_36: -6322477648832174388
+      06_Ramp_Down_Exit_512_37: 9159029773186478269
+      06_Ramp_Down_Exit_512_38: 546833027248405662
+      06_Ramp_Down_Exit_512_39: 4843110644577861016
+      06_Ramp_Down_Exit_512_4: 58528179251967365
+      06_Ramp_Down_Exit_512_40: -5901151316592937394
+      06_Ramp_Down_Exit_512_41: 2171661174276718469
+      06_Ramp_Down_Exit_512_42: -2873384042728762172
+      06_Ramp_Down_Exit_512_43: -5969829806419690138
+      06_Ramp_Down_Exit_512_44: 2872543313691557024
+      06_Ramp_Down_Exit_512_45: 2190675344672803428
+      06_Ramp_Down_Exit_512_46: 3418914153521768483
+      06_Ramp_Down_Exit_512_47: 3121484819899764123
+      06_Ramp_Down_Exit_512_48: 7274917625481235333
+      06_Ramp_Down_Exit_512_49: 7259856569538071667
+      06_Ramp_Down_Exit_512_5: -7064170379422382775
+      06_Ramp_Down_Exit_512_50: -1893727506495677095
+      06_Ramp_Down_Exit_512_51: -6742129818839352414
+      06_Ramp_Down_Exit_512_52: -5770263066758084355
+      06_Ramp_Down_Exit_512_53: -7282591667951724488
+      06_Ramp_Down_Exit_512_54: -1967613370790296741
+      06_Ramp_Down_Exit_512_55: 3673937450241050510
+      06_Ramp_Down_Exit_512_56: 4543198564862171501
+      06_Ramp_Down_Exit_512_57: 5114769450011426974
+      06_Ramp_Down_Exit_512_58: -260005342639573778
+      06_Ramp_Down_Exit_512_59: -2055724195465418575
+      06_Ramp_Down_Exit_512_6: 4138046378687141267
+      06_Ramp_Down_Exit_512_7: 9093798368842370201
+      06_Ramp_Down_Exit_512_8: -2833114889404288927
+      06_Ramp_Down_Exit_512_9: 7019162167586049174
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,347 @@
+fileFormatVersion: 2
+guid: cfeda901dfaf4aa42bbe35d001286126
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1388955708990517820
+    second: Date_Palm_Soft_Mobile_Atlas_3x2_1536_0
+  - first:
+      213: -3302619104487936321
+    second: Date_Palm_Soft_Mobile_Atlas_3x2_1536_1
+  - first:
+      213: -7129718201169328116
+    second: Date_Palm_Soft_Mobile_Atlas_3x2_1536_2
+  - first:
+      213: -2959668671442718548
+    second: Date_Palm_Soft_Mobile_Atlas_3x2_1536_3
+  - first:
+      213: 4542226738855644232
+    second: Date_Palm_Soft_Mobile_Atlas_3x2_1536_4
+  - first:
+      213: 3662327107696287440
+    second: Date_Palm_Soft_Mobile_Atlas_3x2_1536_5
+  - first:
+      213: -8204510019982115714
+    second: Date_Palm_Soft_Mobile_Atlas_3x2_1536_6
+  - first:
+      213: -2324105554723444120
+    second: Date_Palm_Soft_Mobile_Atlas_3x2_1536_7
+  - first:
+      213: 7157239802650419228
+    second: Date_Palm_Soft_Mobile_Atlas_3x2_1536_8
+  - first:
+      213: 4124521843092523586
+    second: Date_Palm_Soft_Mobile_Atlas_3x2_1536_9
+  - first:
+      213: 2482206655634085063
+    second: Date_Palm_Soft_Mobile_Atlas_3x2_1536_10
+  - first:
+      213: -188069297535792822
+    second: Date_Palm_Soft_Mobile_Atlas_3x2_1536_11
+  - first:
+      213: 3629226473677928784
+    second: DatePalm_0
+  - first:
+      213: 2141876538504057826
+    second: DatePalm_1
+  - first:
+      213: -480231456390435468
+    second: DatePalm_2
+  - first:
+      213: -3616024293086417441
+    second: DatePalm_3
+  - first:
+      213: -4519720519094125519
+    second: DatePalm_4
+  - first:
+      213: -305986089518773966
+    second: DatePalm_5
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 512
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DatePalm_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 768
+        width: 512
+        height: 768
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0593405df3a9d5230800000000000000
+      internalID: 3629226473677928784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DatePalm_1
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 768
+        width: 512
+        height: 768
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e317461d5979bd10800000000000000
+      internalID: 2141876538504057826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DatePalm_2
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 768
+        width: 512
+        height: 768
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47d21e7e800e559f0800000000000000
+      internalID: -480231456390435468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DatePalm_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 512
+        height: 768
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdda66f501d41ddc0800000000000000
+      internalID: -3616024293086417441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DatePalm_4
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 512
+        height: 768
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13cb957622ab641c0800000000000000
+      internalID: -4519720519094125519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DatePalm_5
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 0
+        width: 512
+        height: 768
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 239c504d54be0cbf0800000000000000
+      internalID: -305986089518773966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      DatePalm_0: 3629226473677928784
+      DatePalm_1: 2141876538504057826
+      DatePalm_2: -480231456390435468
+      DatePalm_3: -3616024293086417441
+      DatePalm_4: -4519720519094125519
+      DatePalm_5: -305986089518773966
+      Date_Palm_Soft_Mobile_Atlas_3x2_1536_0: 1388955708990517820
+      Date_Palm_Soft_Mobile_Atlas_3x2_1536_1: -3302619104487936321
+      Date_Palm_Soft_Mobile_Atlas_3x2_1536_10: 2482206655634085063
+      Date_Palm_Soft_Mobile_Atlas_3x2_1536_11: -188069297535792822
+      Date_Palm_Soft_Mobile_Atlas_3x2_1536_2: -7129718201169328116
+      Date_Palm_Soft_Mobile_Atlas_3x2_1536_3: -2959668671442718548
+      Date_Palm_Soft_Mobile_Atlas_3x2_1536_4: 4542226738855644232
+      Date_Palm_Soft_Mobile_Atlas_3x2_1536_5: 3662327107696287440
+      Date_Palm_Soft_Mobile_Atlas_3x2_1536_6: -8204510019982115714
+      Date_Palm_Soft_Mobile_Atlas_3x2_1536_7: -2324105554723444120
+      Date_Palm_Soft_Mobile_Atlas_3x2_1536_8: 7157239802650419228
+      Date_Palm_Soft_Mobile_Atlas_3x2_1536_9: 4124521843092523586
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

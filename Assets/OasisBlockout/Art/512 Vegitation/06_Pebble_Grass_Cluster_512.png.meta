@@ -1,0 +1,845 @@
+fileFormatVersion: 2
+guid: b87a2ead19628dd4caecc371aac7ee3a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5658086665846251876
+    second: 06_Pebble_Grass_Cluster_512_0
+  - first:
+      213: 5860842430396072080
+    second: 06_Pebble_Grass_Cluster_512_1
+  - first:
+      213: -5946728427380832797
+    second: 06_Pebble_Grass_Cluster_512_2
+  - first:
+      213: -8922233350977199403
+    second: 06_Pebble_Grass_Cluster_512_3
+  - first:
+      213: -2777182081700917281
+    second: 06_Pebble_Grass_Cluster_512_4
+  - first:
+      213: 1527969488900137713
+    second: 06_Pebble_Grass_Cluster_512_5
+  - first:
+      213: 3652657481199147967
+    second: 06_Pebble_Grass_Cluster_512_6
+  - first:
+      213: 2419922007721174662
+    second: 06_Pebble_Grass_Cluster_512_7
+  - first:
+      213: -5941670539869461289
+    second: 06_Pebble_Grass_Cluster_512_8
+  - first:
+      213: -5812137612305777052
+    second: 06_Pebble_Grass_Cluster_512_9
+  - first:
+      213: -520771417677766847
+    second: 06_Pebble_Grass_Cluster_512_10
+  - first:
+      213: 7067429320794142192
+    second: 06_Pebble_Grass_Cluster_512_11
+  - first:
+      213: -3298572773066576097
+    second: 06_Pebble_Grass_Cluster_512_12
+  - first:
+      213: -4088274955054490057
+    second: 06_Pebble_Grass_Cluster_512_13
+  - first:
+      213: -2054197976246560260
+    second: 06_Pebble_Grass_Cluster_512_14
+  - first:
+      213: 2938580419940206942
+    second: 06_Pebble_Grass_Cluster_512_15
+  - first:
+      213: -7791972537733026065
+    second: 06_Pebble_Grass_Cluster_512_16
+  - first:
+      213: 4144774751951319778
+    second: 06_Pebble_Grass_Cluster_512_17
+  - first:
+      213: 8722720545302276577
+    second: 06_Pebble_Grass_Cluster_512_18
+  - first:
+      213: 2511490902900988388
+    second: 06_Pebble_Grass_Cluster_512_19
+  - first:
+      213: 8632881016248062122
+    second: 06_Pebble_Grass_Cluster_512_20
+  - first:
+      213: -2816744075501264410
+    second: 06_Pebble_Grass_Cluster_512_21
+  - first:
+      213: 7554930380364579352
+    second: 06_Pebble_Grass_Cluster_512_22
+  - first:
+      213: -8858021247719724875
+    second: 06_Pebble_Grass_Cluster_512_23
+  - first:
+      213: -3038745911340064153
+    second: 06_Pebble_Grass_Cluster_512_24
+  - first:
+      213: -2453807754268683388
+    second: 06_Pebble_Grass_Cluster_512_25
+  - first:
+      213: -4911568853585097277
+    second: 06_Pebble_Grass_Cluster_512_26
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 512
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 06_Pebble_Grass_Cluster_512_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 393
+        width: 58
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9e1cddb7207a71b0800000000000000
+      internalID: -5658086665846251876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 06_Pebble_Grass_Cluster_512_1
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 394
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0908b4c6325e55150800000000000000
+      internalID: 5860842430396072080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 06_Pebble_Grass_Cluster_512_2
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 356
+        width: 49
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e58f3e900af87da0800000000000000
+      internalID: -5946728427380832797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 06_Pebble_Grass_Cluster_512_3
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 386
+        width: 95
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d26cdf0a0cdd2480800000000000000
+      internalID: -8922233350977199403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 06_Pebble_Grass_Cluster_512_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 360
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdf03af5c977579d0800000000000000
+      internalID: -2777182081700917281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 06_Pebble_Grass_Cluster_512_5
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 276
+        width: 89
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f227859720743510800000000000000
+      internalID: 1527969488900137713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 06_Pebble_Grass_Cluster_512_6
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 390
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbb5c0560a8d0b230800000000000000
+      internalID: 3652657481199147967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 06_Pebble_Grass_Cluster_512_7
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 342
+        width: 47
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 686ee56ae3a459120800000000000000
+      internalID: 2419922007721174662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 06_Pebble_Grass_Cluster_512_8
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 368
+        width: 117
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d46da2df12fa8da0800000000000000
+      internalID: -5941670539869461289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 06_Pebble_Grass_Cluster_512_9
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 272
+        width: 147
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46eb3d8b2a3275fa0800000000000000
+      internalID: -5812137612305777052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 06_Pebble_Grass_Cluster_512_10
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 392
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14fd320a729d5c8f0800000000000000
+      internalID: -520771417677766847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 06_Pebble_Grass_Cluster_512_11
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 377
+        width: 29
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f57d1db58d841260800000000000000
+      internalID: 7067429320794142192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 06_Pebble_Grass_Cluster_512_12
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 384
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1f679b1a8d1932d0800000000000000
+      internalID: -3298572773066576097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 06_Pebble_Grass_Cluster_512_13
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 378
+        width: 45
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73ed9d7c6978347c0800000000000000
+      internalID: -4088274955054490057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 06_Pebble_Grass_Cluster_512_14
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 312
+        width: 93
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf95f7ff2d50e73e0800000000000000
+      internalID: -2054197976246560260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 06_Pebble_Grass_Cluster_512_15
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 388
+        width: 7
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e59447a925fe7c820800000000000000
+      internalID: 2938580419940206942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 06_Pebble_Grass_Cluster_512_16
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 374
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: feee2d4b24a5dd390800000000000000
+      internalID: -7791972537733026065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 06_Pebble_Grass_Cluster_512_17
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 375
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e2f01c4da2358930800000000000000
+      internalID: 4144774751951319778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 06_Pebble_Grass_Cluster_512_18
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 386
+        width: 7
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e96eb9fe145d0970800000000000000
+      internalID: 8722720545302276577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 06_Pebble_Grass_Cluster_512_19
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 374
+        width: 9
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e9d9047bab9ad220800000000000000
+      internalID: 2511490902900988388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 06_Pebble_Grass_Cluster_512_20
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 284
+        width: 39
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa0dda99b872ec770800000000000000
+      internalID: 8632881016248062122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 06_Pebble_Grass_Cluster_512_21
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 334
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e1af84ef2ae8e8d0800000000000000
+      internalID: -2816744075501264410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 06_Pebble_Grass_Cluster_512_22
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 272
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8120078372188d860800000000000000
+      internalID: 7554930380364579352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 06_Pebble_Grass_Cluster_512_23
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 246
+        width: 75
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b8adc46b9cf11580800000000000000
+      internalID: -8858021247719724875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 06_Pebble_Grass_Cluster_512_24
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 312
+        width: 23
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 762a7ef81b434d5d0800000000000000
+      internalID: -3038745911340064153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 06_Pebble_Grass_Cluster_512_25
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 0
+        width: 465
+        height: 273
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48357bb29d252fdd0800000000000000
+      internalID: -2453807754268683388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 06_Pebble_Grass_Cluster_512_26
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 202
+        width: 45
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cd0038762a96dbb0800000000000000
+      internalID: -4911568853585097277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      06_Pebble_Grass_Cluster_512_0: -5658086665846251876
+      06_Pebble_Grass_Cluster_512_1: 5860842430396072080
+      06_Pebble_Grass_Cluster_512_10: -520771417677766847
+      06_Pebble_Grass_Cluster_512_11: 7067429320794142192
+      06_Pebble_Grass_Cluster_512_12: -3298572773066576097
+      06_Pebble_Grass_Cluster_512_13: -4088274955054490057
+      06_Pebble_Grass_Cluster_512_14: -2054197976246560260
+      06_Pebble_Grass_Cluster_512_15: 2938580419940206942
+      06_Pebble_Grass_Cluster_512_16: -7791972537733026065
+      06_Pebble_Grass_Cluster_512_17: 4144774751951319778
+      06_Pebble_Grass_Cluster_512_18: 8722720545302276577
+      06_Pebble_Grass_Cluster_512_19: 2511490902900988388
+      06_Pebble_Grass_Cluster_512_2: -5946728427380832797
+      06_Pebble_Grass_Cluster_512_20: 8632881016248062122
+      06_Pebble_Grass_Cluster_512_21: -2816744075501264410
+      06_Pebble_Grass_Cluster_512_22: 7554930380364579352
+      06_Pebble_Grass_Cluster_512_23: -8858021247719724875
+      06_Pebble_Grass_Cluster_512_24: -3038745911340064153
+      06_Pebble_Grass_Cluster_512_25: -2453807754268683388
+      06_Pebble_Grass_Cluster_512_26: -4911568853585097277
+      06_Pebble_Grass_Cluster_512_3: -8922233350977199403
+      06_Pebble_Grass_Cluster_512_4: -2777182081700917281
+      06_Pebble_Grass_Cluster_512_5: 1527969488900137713
+      06_Pebble_Grass_Cluster_512_6: 3652657481199147967
+      06_Pebble_Grass_Cluster_512_7: 2419922007721174662
+      06_Pebble_Grass_Cluster_512_8: -5941670539869461289
+      06_Pebble_Grass_Cluster_512_9: -5812137612305777052
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

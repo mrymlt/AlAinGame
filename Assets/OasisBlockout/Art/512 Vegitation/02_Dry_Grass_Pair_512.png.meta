@@ -1,0 +1,507 @@
+fileFormatVersion: 2
+guid: 9ba508091cdd79f49b39ffaf560ab7ef
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6758262384648235819
+    second: 02_Dry_Grass_Pair_512_0
+  - first:
+      213: -2000283213626989048
+    second: 02_Dry_Grass_Pair_512_1
+  - first:
+      213: -4208303162854242301
+    second: 02_Dry_Grass_Pair_512_2
+  - first:
+      213: 4870634163190225244
+    second: 02_Dry_Grass_Pair_512_3
+  - first:
+      213: -6172249860076803424
+    second: 02_Dry_Grass_Pair_512_4
+  - first:
+      213: -5493420592888340158
+    second: 02_Dry_Grass_Pair_512_5
+  - first:
+      213: 5650077892194785360
+    second: 02_Dry_Grass_Pair_512_6
+  - first:
+      213: 8398561280305225668
+    second: 02_Dry_Grass_Pair_512_7
+  - first:
+      213: 3084201065944488221
+    second: 02_Dry_Grass_Pair_512_8
+  - first:
+      213: -1357029082314214581
+    second: 02_Dry_Grass_Pair_512_9
+  - first:
+      213: -7073728386251250642
+    second: 02_Dry_Grass_Pair_512_10
+  - first:
+      213: -7976440498743556317
+    second: 02_Dry_Grass_Pair_512_11
+  - first:
+      213: 2160416883884317514
+    second: 02_Dry_Grass_Pair_512_12
+  - first:
+      213: -8487628594082484913
+    second: 02_Dry_Grass_Pair_512_13
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 512
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 02_Dry_Grass_Pair_512_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 399
+        width: 279
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2ba7dff4db2acd50800000000000000
+      internalID: 6758262384648235819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 02_Dry_Grass_Pair_512_1
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 373
+        width: 43
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8062691e3019d34e0800000000000000
+      internalID: -2000283213626989048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 02_Dry_Grass_Pair_512_2
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 263
+        width: 215
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3088be6e19a1995c0800000000000000
+      internalID: -4208303162854242301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 02_Dry_Grass_Pair_512_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 512
+        height: 308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c59d5d737f7f79340800000000000000
+      internalID: 4870634163190225244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 02_Dry_Grass_Pair_512_4
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 308
+        width: 111
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0aaea294473c75aa0800000000000000
+      internalID: -6172249860076803424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 02_Dry_Grass_Pair_512_5
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 312
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 241231f731373c3b0800000000000000
+      internalID: -5493420592888340158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 02_Dry_Grass_Pair_512_6
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 325
+        width: 53
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 058de8558eb196e40800000000000000
+      internalID: 5650077892194785360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 02_Dry_Grass_Pair_512_7
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 305
+        width: 79
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cf51f8acfead8470800000000000000
+      internalID: 8398561280305225668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 02_Dry_Grass_Pair_512_8
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 341
+        width: 23
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d19908757884dca20800000000000000
+      internalID: 3084201065944488221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 02_Dry_Grass_Pair_512_9
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 253
+        width: 13
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4379ce4d3dda2de0800000000000000
+      internalID: -1357029082314214581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 02_Dry_Grass_Pair_512_10
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 243
+        width: 27
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e24a5ebc28115dd90800000000000000
+      internalID: -7073728386251250642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 02_Dry_Grass_Pair_512_11
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 289
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 327c95c90adfd4190800000000000000
+      internalID: -7976440498743556317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 02_Dry_Grass_Pair_512_12
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 205
+        width: 33
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4b5ea2a5b75bfd10800000000000000
+      internalID: 2160416883884317514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 02_Dry_Grass_Pair_512_13
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 25
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4de34853c2e53a80800000000000000
+      internalID: -8487628594082484913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      02_Dry_Grass_Pair_512_0: 6758262384648235819
+      02_Dry_Grass_Pair_512_1: -2000283213626989048
+      02_Dry_Grass_Pair_512_10: -7073728386251250642
+      02_Dry_Grass_Pair_512_11: -7976440498743556317
+      02_Dry_Grass_Pair_512_12: 2160416883884317514
+      02_Dry_Grass_Pair_512_13: -8487628594082484913
+      02_Dry_Grass_Pair_512_2: -4208303162854242301
+      02_Dry_Grass_Pair_512_3: 4870634163190225244
+      02_Dry_Grass_Pair_512_4: -6172249860076803424
+      02_Dry_Grass_Pair_512_5: -5493420592888340158
+      02_Dry_Grass_Pair_512_6: 5650077892194785360
+      02_Dry_Grass_Pair_512_7: 8398561280305225668
+      02_Dry_Grass_Pair_512_8: 3084201065944488221
+      02_Dry_Grass_Pair_512_9: -1357029082314214581
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

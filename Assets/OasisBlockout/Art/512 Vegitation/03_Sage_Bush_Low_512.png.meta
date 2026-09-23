@@ -1,0 +1,481 @@
+fileFormatVersion: 2
+guid: b5e32e12005ca6c4997bf2d8946c3666
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1290757933506101142
+    second: 03_Sage_Bush_Low_512_0
+  - first:
+      213: 5960608509251591840
+    second: 03_Sage_Bush_Low_512_1
+  - first:
+      213: -3537283730771206099
+    second: 03_Sage_Bush_Low_512_2
+  - first:
+      213: 8951499404797772773
+    second: 03_Sage_Bush_Low_512_3
+  - first:
+      213: -4719412155697002708
+    second: 03_Sage_Bush_Low_512_4
+  - first:
+      213: 4265267637687541883
+    second: 03_Sage_Bush_Low_512_5
+  - first:
+      213: -90218990247753940
+    second: 03_Sage_Bush_Low_512_6
+  - first:
+      213: -4705134626730029110
+    second: 03_Sage_Bush_Low_512_7
+  - first:
+      213: 1704964945668269943
+    second: 03_Sage_Bush_Low_512_8
+  - first:
+      213: 360482964754835124
+    second: 03_Sage_Bush_Low_512_9
+  - first:
+      213: 5345239812938726756
+    second: 03_Sage_Bush_Low_512_10
+  - first:
+      213: -7042512169002854442
+    second: 03_Sage_Bush_Low_512_11
+  - first:
+      213: 1698499610195594373
+    second: 03_Sage_Bush_Low_512_12
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 512
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 03_Sage_Bush_Low_512_0
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 469
+        width: 83
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a600a5a8f7e461ee0800000000000000
+      internalID: -1290757933506101142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03_Sage_Bush_Low_512_1
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 471
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ae9c17cbd558b250800000000000000
+      internalID: 5960608509251591840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03_Sage_Bush_Low_512_2
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 261
+        width: 111
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d202d9d203b09eec0800000000000000
+      internalID: -3537283730771206099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03_Sage_Bush_Low_512_3
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 0
+        width: 497
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e38716184d1a3c70800000000000000
+      internalID: 8951499404797772773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03_Sage_Bush_Low_512_4
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 321
+        width: 211
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c27050f16a7418eb0800000000000000
+      internalID: -4719412155697002708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03_Sage_Bush_Low_512_5
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 322
+        width: 27
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b70e5507156413b30800000000000000
+      internalID: 4265267637687541883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03_Sage_Bush_Low_512_6
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 369
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c27c94e6e4a7fbef0800000000000000
+      internalID: -90218990247753940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03_Sage_Bush_Low_512_7
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 287
+        width: 31
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acfcd516cf004beb0800000000000000
+      internalID: -4705134626730029110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03_Sage_Bush_Low_512_8
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 295
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 777ec05b59049a710800000000000000
+      internalID: 1704964945668269943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03_Sage_Bush_Low_512_9
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 307
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b6aac5b851b00500800000000000000
+      internalID: 360482964754835124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03_Sage_Bush_Low_512_10
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 286
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46dfc712a4b1e2a40800000000000000
+      internalID: 5345239812938726756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03_Sage_Bush_Low_512_11
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 62
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d71830ce78f34e90800000000000000
+      internalID: -7042512169002854442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03_Sage_Bush_Low_512_12
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 0
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58c09dc7568429710800000000000000
+      internalID: 1698499610195594373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      03_Sage_Bush_Low_512_0: -1290757933506101142
+      03_Sage_Bush_Low_512_1: 5960608509251591840
+      03_Sage_Bush_Low_512_10: 5345239812938726756
+      03_Sage_Bush_Low_512_11: -7042512169002854442
+      03_Sage_Bush_Low_512_12: 1698499610195594373
+      03_Sage_Bush_Low_512_2: -3537283730771206099
+      03_Sage_Bush_Low_512_3: 8951499404797772773
+      03_Sage_Bush_Low_512_4: -4719412155697002708
+      03_Sage_Bush_Low_512_5: 4265267637687541883
+      03_Sage_Bush_Low_512_6: -90218990247753940
+      03_Sage_Bush_Low_512_7: -4705134626730029110
+      03_Sage_Bush_Low_512_8: 1704964945668269943
+      03_Sage_Bush_Low_512_9: 360482964754835124
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
