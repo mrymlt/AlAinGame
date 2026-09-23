@@ -67,7 +67,7 @@ public class PlayerMovement : MonoBehaviour
         maxJumps = Mathf.Max(1, maxJumps);
         jumpsRemaining = maxJumps;
 
-        animator.applyRootMotion = false;
+        if (animator != null) animator.applyRootMotion = false;
         rb.interpolation = RigidbodyInterpolation2D.Interpolate;
 
         if (autoDetectMobile && IsMobileRuntime())
@@ -123,6 +123,7 @@ public class PlayerMovement : MonoBehaviour
 
     private void UpdateFacing()
     {
+        if (spriteRenderer == null) return;
         if (moveInput.x > 0.01f)
         {
             spriteRenderer.flipX = false;
@@ -135,6 +136,8 @@ public class PlayerMovement : MonoBehaviour
 
     private void UpdateAnimator()
     {
+        // Blockout players can move before an Animator/controller is assigned.
+        if (animator == null || animator.runtimeAnimatorController == null) return;
         animator.SetBool("isGrounded", isGrounded);
         animator.SetBool("isWalking", isGrounded && Mathf.Abs(moveInput.x) > 0.01f);
         animator.SetBool("isInteracting", interactTimer > 0f);

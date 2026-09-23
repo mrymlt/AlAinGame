@@ -1,0 +1,1 @@
+Oasis dialogue and safer platform layout installed. Intro/hint active; success lines require real puzzle completion.
