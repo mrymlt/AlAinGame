@@ -296,6 +296,15 @@ public class PlayerMovement : MonoBehaviour
         return Keyboard.current.spaceKey.isPressed || Keyboard.current.wKey.isPressed || Keyboard.current.upArrowKey.isPressed;
     }
 
+    // Clear held touch buttons and queued jumps when dialogue takes or releases control.
+    public void ClearInteractionInput()
+    {
+        moveInput = Vector2.zero;
+        jumpQueued = false;
+        jumpBufferTimer = 0f;
+        mobileLeftHeld = false;
+        mobileRightHeld = false;
+    }
     void LateUpdate()
     {
         if (cameraTarget == null) return;

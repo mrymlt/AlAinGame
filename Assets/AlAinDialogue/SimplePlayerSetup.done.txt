@@ -1,0 +1,1 @@
+Installed simple click/tap dialogue on MainPlayer. Click route, text/image binding and pause restoration verified.
