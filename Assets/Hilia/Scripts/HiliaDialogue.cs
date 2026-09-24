@@ -13,7 +13,7 @@ public class HiliaLine
     public HiliaLine(string who,string words,Sprite image){speaker=who;text=words;portrait=image;}
 }
 
-// Edit the three conversations on MainPlayer. Only used by HiliaScene.
+// Edit conversations on MainPlayer. Shared by HiliaScene and JebelHafeetScene.
 public class HiliaDialogue : MonoBehaviour, IPointerClickHandler
 {
     public bool openIntroductionOnStart=true;
@@ -37,6 +37,7 @@ public class HiliaDialogue : MonoBehaviour, IPointerClickHandler
     public void ShowHint()=>Open(mission!=null && mission.IsSolved?solved:hint);
     public void ShowHowToPlay()=>Open(howToPlay);
     public void ShowSolved()=>Open(solved);
+    public void ShowLines(HiliaLine[] lines)=>Open(lines);
     void Open(HiliaLine[] lines)
     {
         if(!isActiveAndEnabled || panel==null || lines==null || lines.Length==0)return;
@@ -79,3 +80,4 @@ public class HiliaDialogue : MonoBehaviour, IPointerClickHandler
     }
     void OnDisable()=>Close();
 }
+
