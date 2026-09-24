@@ -1,0 +1,2067 @@
+fileFormatVersion: 2
+guid: 604c2857a017740e2a0066d66659cf90
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1698148658638434412
+    second: 32_Arrow_Constellation_0
+  - first:
+      213: -2625589376209471582
+    second: 32_Arrow_Constellation_1
+  - first:
+      213: -7441901901875082902
+    second: 32_Arrow_Constellation_2
+  - first:
+      213: 4569935029454399975
+    second: 32_Arrow_Constellation_3
+  - first:
+      213: 473882135502398324
+    second: 32_Arrow_Constellation_4
+  - first:
+      213: 1661903429288769803
+    second: 32_Arrow_Constellation_5
+  - first:
+      213: -3460022088438060801
+    second: 32_Arrow_Constellation_6
+  - first:
+      213: -3162212953866072125
+    second: 32_Arrow_Constellation_7
+  - first:
+      213: 6138245473428993715
+    second: 32_Arrow_Constellation_8
+  - first:
+      213: -5754796896896448702
+    second: 32_Arrow_Constellation_9
+  - first:
+      213: -8799813379686638897
+    second: 32_Arrow_Constellation_10
+  - first:
+      213: 6368082667590473663
+    second: 32_Arrow_Constellation_11
+  - first:
+      213: 3959252585794505112
+    second: 32_Arrow_Constellation_12
+  - first:
+      213: 1379120018107727817
+    second: 32_Arrow_Constellation_13
+  - first:
+      213: 1658175716009148863
+    second: 32_Arrow_Constellation_14
+  - first:
+      213: -1367870521861998935
+    second: 32_Arrow_Constellation_15
+  - first:
+      213: 4635981574049371082
+    second: 32_Arrow_Constellation_16
+  - first:
+      213: -3641970497337902886
+    second: 32_Arrow_Constellation_17
+  - first:
+      213: 6665098541601283242
+    second: 32_Arrow_Constellation_18
+  - first:
+      213: -7377407927196373819
+    second: 32_Arrow_Constellation_19
+  - first:
+      213: -6939517875060293288
+    second: 32_Arrow_Constellation_20
+  - first:
+      213: 7867099134135045416
+    second: 32_Arrow_Constellation_21
+  - first:
+      213: -3145541635485812416
+    second: 32_Arrow_Constellation_22
+  - first:
+      213: -5276455036273711758
+    second: 32_Arrow_Constellation_23
+  - first:
+      213: -5494224282505140544
+    second: 32_Arrow_Constellation_24
+  - first:
+      213: -2717547692005779738
+    second: 32_Arrow_Constellation_25
+  - first:
+      213: -2837251965371231276
+    second: 32_Arrow_Constellation_26
+  - first:
+      213: -6434972941659346738
+    second: 32_Arrow_Constellation_27
+  - first:
+      213: -2663886364505590267
+    second: 32_Arrow_Constellation_28
+  - first:
+      213: 5723747673760210803
+    second: 32_Arrow_Constellation_29
+  - first:
+      213: 6826467027892352938
+    second: 32_Arrow_Constellation_30
+  - first:
+      213: -7807740320981423774
+    second: 32_Arrow_Constellation_31
+  - first:
+      213: 4095740424173733575
+    second: 32_Arrow_Constellation_32
+  - first:
+      213: 6750881009036726828
+    second: 32_Arrow_Constellation_33
+  - first:
+      213: -3261584931730963680
+    second: 32_Arrow_Constellation_34
+  - first:
+      213: -3591338792442523740
+    second: 32_Arrow_Constellation_35
+  - first:
+      213: 8818474036972543797
+    second: 32_Arrow_Constellation_36
+  - first:
+      213: -8718454533597476385
+    second: 32_Arrow_Constellation_37
+  - first:
+      213: 7157523800710094559
+    second: 32_Arrow_Constellation_38
+  - first:
+      213: 1982148591647033042
+    second: 32_Arrow_Constellation_39
+  - first:
+      213: 626324608030864510
+    second: 32_Arrow_Constellation_40
+  - first:
+      213: 308362145289349247
+    second: 32_Arrow_Constellation_41
+  - first:
+      213: 2044934559465024367
+    second: 32_Arrow_Constellation_42
+  - first:
+      213: 2977669144434960508
+    second: 32_Arrow_Constellation_43
+  - first:
+      213: 4352036911529826577
+    second: 32_Arrow_Constellation_44
+  - first:
+      213: -2180034700094453991
+    second: 32_Arrow_Constellation_45
+  - first:
+      213: -8078580396363371879
+    second: 32_Arrow_Constellation_46
+  - first:
+      213: -9086521481944330359
+    second: 32_Arrow_Constellation_47
+  - first:
+      213: -3240065298237477526
+    second: 32_Arrow_Constellation_48
+  - first:
+      213: 9022322049994246026
+    second: 32_Arrow_Constellation_49
+  - first:
+      213: 2754720050803065358
+    second: 32_Arrow_Constellation_50
+  - first:
+      213: -8286079581472778222
+    second: 32_Arrow_Constellation_51
+  - first:
+      213: 7514348669405410205
+    second: 32_Arrow_Constellation_52
+  - first:
+      213: -3967620775151642185
+    second: 32_Arrow_Constellation_53
+  - first:
+      213: -2138199280206241025
+    second: 32_Arrow_Constellation_54
+  - first:
+      213: 845903249095696563
+    second: 32_Arrow_Constellation_55
+  - first:
+      213: 2982029008121703287
+    second: 32_Arrow_Constellation_56
+  - first:
+      213: 3708956698104370709
+    second: 32_Arrow_Constellation_57
+  - first:
+      213: 5344269128464558493
+    second: 32_Arrow_Constellation_58
+  - first:
+      213: 7775669045058603538
+    second: 32_Arrow_Constellation_59
+  - first:
+      213: -3338222632713672400
+    second: 32_Arrow_Constellation_60
+  - first:
+      213: -1781411285145307542
+    second: 32_Arrow_Constellation_61
+  - first:
+      213: -6390728527082038556
+    second: 32_Arrow_Constellation_62
+  - first:
+      213: 9010416116639048522
+    second: 32_Arrow_Constellation_63
+  - first:
+      213: -7928510626318573866
+    second: 32_Arrow_Constellation_64
+  - first:
+      213: 7611160643226897258
+    second: 32_Arrow_Constellation_65
+  - first:
+      213: -1506866421222710449
+    second: 32_Arrow_Constellation_66
+  - first:
+      213: -4298903763078026999
+    second: 32_Arrow_Constellation_67
+  - first:
+      213: -1294285276079865741
+    second: 32_Arrow_Constellation_68
+  - first:
+      213: 7392469814427012270
+    second: 32_Arrow_Constellation_69
+  - first:
+      213: 212996904480628780
+    second: 32_Arrow_Constellation_70
+  - first:
+      213: -1273009435771337011
+    second: 32_Arrow_Constellation_71
+  - first:
+      213: -3532923509628661462
+    second: 32_Arrow_Constellation_72
+  - first:
+      213: -6393476758392410559
+    second: 32_Arrow_Constellation_73
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 32_Arrow_Constellation_0
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 483
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49fcc0acac6fe68e0800000000000000
+      internalID: -1698148658638434412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 32_Arrow_Constellation_1
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 481
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a7bef09f58009bd0800000000000000
+      internalID: -2625589376209471582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 32_Arrow_Constellation_2
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 240
+        width: 260
+        height: 249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a698e6d26ad09b890800000000000000
+      internalID: -7441901901875082902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 32_Arrow_Constellation_3
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 471
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e96e3d52bbab6f30800000000000000
+      internalID: 4569935029454399975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 32_Arrow_Constellation_4
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 459
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4732600aa41939600800000000000000
+      internalID: 473882135502398324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 32_Arrow_Constellation_5
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 464
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b09b2c12d54401710800000000000000
+      internalID: 1661903429288769803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 32_Arrow_Constellation_6
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 440
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff8e4a71e388bffc0800000000000000
+      internalID: -3460022088438060801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 32_Arrow_Constellation_7
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 427
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cf8ca492109d14d0800000000000000
+      internalID: -3162212953866072125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 32_Arrow_Constellation_8
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 442
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b672eb7cbd6f2550800000000000000
+      internalID: 6138245473428993715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 32_Arrow_Constellation_9
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 438
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24787f566bad220b0800000000000000
+      internalID: -5754796896896448702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 32_Arrow_Constellation_10
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 418
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fca5c06ca58c0e580800000000000000
+      internalID: -8799813379686638897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 32_Arrow_Constellation_11
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 428
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb75d065279ff5850800000000000000
+      internalID: 6368082667590473663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 32_Arrow_Constellation_12
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 425
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8990450ff3712f630800000000000000
+      internalID: 3959252585794505112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 32_Arrow_Constellation_13
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 381
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cff0fd795e932310800000000000000
+      internalID: 1379120018107727817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 32_Arrow_Constellation_14
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 368
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb187ef3706030710800000000000000
+      internalID: 1658175716009148863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 32_Arrow_Constellation_15
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 381
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a6ffa5f109540de0800000000000000
+      internalID: -1367870521861998935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 32_Arrow_Constellation_16
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 360
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac3187adda0565040800000000000000
+      internalID: 4635981574049371082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 32_Arrow_Constellation_17
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 357
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad8b8bfe02f157dc0800000000000000
+      internalID: -3641970497337902886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 32_Arrow_Constellation_18
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 356
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aac5e157fcf2f7c50800000000000000
+      internalID: 6665098541601283242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 32_Arrow_Constellation_19
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 361
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cc2f40d39e2e9990800000000000000
+      internalID: -7377407927196373819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 32_Arrow_Constellation_20
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 367
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 851ce808241e1bf90800000000000000
+      internalID: -6939517875060293288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 32_Arrow_Constellation_21
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 347
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82d07e61bfc8d2d60800000000000000
+      internalID: 7867099134135045416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 32_Arrow_Constellation_22
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 345
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 049baae5c8ac854d0800000000000000
+      internalID: -3145541635485812416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 32_Arrow_Constellation_23
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 331
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 275a591b91446c6b0800000000000000
+      internalID: -5276455036273711758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 32_Arrow_Constellation_24
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 325
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c6a4fcef1890c3b0800000000000000
+      internalID: -5494224282505140544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 32_Arrow_Constellation_25
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 247
+        width: 113
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e610d5b5c4594ad0800000000000000
+      internalID: -2717547692005779738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 32_Arrow_Constellation_26
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 292
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d3d4c1be5e00a8d0800000000000000
+      internalID: -2837251965371231276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 32_Arrow_Constellation_27
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 304
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec8e429143262b6a0800000000000000
+      internalID: -6434972941659346738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 32_Arrow_Constellation_28
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 304
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50633a12779f70bd0800000000000000
+      internalID: -2663886364505590267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 32_Arrow_Constellation_29
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 304
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37f127efe26de6f40800000000000000
+      internalID: 5723747673760210803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 32_Arrow_Constellation_30
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 252
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa7b07cf79b7cbe50800000000000000
+      internalID: 6826467027892352938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 32_Arrow_Constellation_31
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 254
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26968659b8555a390800000000000000
+      internalID: -7807740320981423774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 32_Arrow_Constellation_32
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 185
+        width: 115
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c64513373ef6d830800000000000000
+      internalID: 4095740424173733575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 32_Arrow_Constellation_33
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 252
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2290909282ffad50800000000000000
+      internalID: 6750881009036726828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 32_Arrow_Constellation_34
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 237
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 023c86309c58cb2d0800000000000000
+      internalID: -3261584931730963680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 32_Arrow_Constellation_35
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 229
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4af02606560092ec0800000000000000
+      internalID: -3591338792442523740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 32_Arrow_Constellation_36
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 235
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53fd0c21a63816a70800000000000000
+      internalID: 8818474036972543797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 32_Arrow_Constellation_37
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 225
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd947864bc3d10780800000000000000
+      internalID: -8718454533597476385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 32_Arrow_Constellation_38
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 208
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fde9abc79f1a45360800000000000000
+      internalID: 7157523800710094559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 32_Arrow_Constellation_39
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 220
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d6892964a1028b10800000000000000
+      internalID: 1982148591647033042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 32_Arrow_Constellation_40
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 218
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e74f3cf99e621b800800000000000000
+      internalID: 626324608030864510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 32_Arrow_Constellation_41
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 198
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f782624ccb5874400800000000000000
+      internalID: 308362145289349247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 32_Arrow_Constellation_42
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 205
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6b25d5b521116c10800000000000000
+      internalID: 2044934559465024367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 32_Arrow_Constellation_43
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 181
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c78efac7f4ec25920800000000000000
+      internalID: 2977669144434960508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 32_Arrow_Constellation_44
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 172
+        width: 36
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1199f11538a856c30800000000000000
+      internalID: 4352036911529826577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 32_Arrow_Constellation_45
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 187
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91748d69df5feb1e0800000000000000
+      internalID: -2180034700094453991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 32_Arrow_Constellation_46
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 22
+        width: 180
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99aa3518eed13ef80800000000000000
+      internalID: -8078580396363371879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 32_Arrow_Constellation_47
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 158
+        width: 28
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98f80c8cad036e180800000000000000
+      internalID: -9086521481944330359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 32_Arrow_Constellation_48
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 167
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6d2c7127c9f803d0800000000000000
+      internalID: -3240065298237477526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 32_Arrow_Constellation_49
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 141
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a87c4172a1ab53d70800000000000000
+      internalID: 9022322049994246026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 32_Arrow_Constellation_50
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 145
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0243c38a4bba3620800000000000000
+      internalID: 2754720050803065358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 32_Arrow_Constellation_51
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 135
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21892bda58ee10d80800000000000000
+      internalID: -8286079581472778222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 32_Arrow_Constellation_52
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 120
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d93b6565d44584860800000000000000
+      internalID: 7514348669405410205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 32_Arrow_Constellation_53
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 127
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b950a52ded20f8c0800000000000000
+      internalID: -3967620775151642185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 32_Arrow_Constellation_54
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 103
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff2af4455179352e0800000000000000
+      internalID: -2138199280206241025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 32_Arrow_Constellation_55
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 91
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b0a2b4f5804dbb00800000000000000
+      internalID: 845903249095696563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 32_Arrow_Constellation_56
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 91
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77b210b559b426920800000000000000
+      internalID: 2982029008121703287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 32_Arrow_Constellation_57
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 85
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51611dd477cd87330800000000000000
+      internalID: 3708956698104370709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 32_Arrow_Constellation_58
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 83
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d99673a0578aa2a40800000000000000
+      internalID: 5344269128464558493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 32_Arrow_Constellation_59
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 58
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21a08b99cc9b8eb60800000000000000
+      internalID: 7775669045058603538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 32_Arrow_Constellation_60
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 66
+        width: 23
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 039aee3c3304ca1d0800000000000000
+      internalID: -3338222632713672400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 32_Arrow_Constellation_61
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 54
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a66ba0edfd72747e0800000000000000
+      internalID: -1781411285145307542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 32_Arrow_Constellation_62
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 63
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ead15f93429f47a0800000000000000
+      internalID: -6390728527082038556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 32_Arrow_Constellation_63
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 66
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a43a9b608bd6b0d70800000000000000
+      internalID: 9010416116639048522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 32_Arrow_Constellation_64
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 49
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6de1f58a79548f190800000000000000
+      internalID: -7928510626318573866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 32_Arrow_Constellation_65
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 47
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6b09f3874640a960800000000000000
+      internalID: 7611160643226897258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 32_Arrow_Constellation_66
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 48
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f436e0f39f8861be0800000000000000
+      internalID: -1506866421222710449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 32_Arrow_Constellation_67
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 34
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 909e426ddc93754c0800000000000000
+      internalID: -4298903763078026999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 32_Arrow_Constellation_68
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 23
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 370cd391666c90ee0800000000000000
+      internalID: -1294285276079865741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 32_Arrow_Constellation_69
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 12
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eac48b51124579660800000000000000
+      internalID: 7392469814427012270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 32_Arrow_Constellation_70
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 23
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2063dd5e87b4f200800000000000000
+      internalID: 212996904480628780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 32_Arrow_Constellation_71
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 5
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc60121b9ac555ee0800000000000000
+      internalID: -1273009435771337011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 32_Arrow_Constellation_72
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 4
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2115f549c888fec0800000000000000
+      internalID: -3532923509628661462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 32_Arrow_Constellation_73
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 3
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14eed4823cec547a0800000000000000
+      internalID: -6393476758392410559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      32_Arrow_Constellation_0: -1698148658638434412
+      32_Arrow_Constellation_1: -2625589376209471582
+      32_Arrow_Constellation_10: -8799813379686638897
+      32_Arrow_Constellation_11: 6368082667590473663
+      32_Arrow_Constellation_12: 3959252585794505112
+      32_Arrow_Constellation_13: 1379120018107727817
+      32_Arrow_Constellation_14: 1658175716009148863
+      32_Arrow_Constellation_15: -1367870521861998935
+      32_Arrow_Constellation_16: 4635981574049371082
+      32_Arrow_Constellation_17: -3641970497337902886
+      32_Arrow_Constellation_18: 6665098541601283242
+      32_Arrow_Constellation_19: -7377407927196373819
+      32_Arrow_Constellation_2: -7441901901875082902
+      32_Arrow_Constellation_20: -6939517875060293288
+      32_Arrow_Constellation_21: 7867099134135045416
+      32_Arrow_Constellation_22: -3145541635485812416
+      32_Arrow_Constellation_23: -5276455036273711758
+      32_Arrow_Constellation_24: -5494224282505140544
+      32_Arrow_Constellation_25: -2717547692005779738
+      32_Arrow_Constellation_26: -2837251965371231276
+      32_Arrow_Constellation_27: -6434972941659346738
+      32_Arrow_Constellation_28: -2663886364505590267
+      32_Arrow_Constellation_29: 5723747673760210803
+      32_Arrow_Constellation_3: 4569935029454399975
+      32_Arrow_Constellation_30: 6826467027892352938
+      32_Arrow_Constellation_31: -7807740320981423774
+      32_Arrow_Constellation_32: 4095740424173733575
+      32_Arrow_Constellation_33: 6750881009036726828
+      32_Arrow_Constellation_34: -3261584931730963680
+      32_Arrow_Constellation_35: -3591338792442523740
+      32_Arrow_Constellation_36: 8818474036972543797
+      32_Arrow_Constellation_37: -8718454533597476385
+      32_Arrow_Constellation_38: 7157523800710094559
+      32_Arrow_Constellation_39: 1982148591647033042
+      32_Arrow_Constellation_4: 473882135502398324
+      32_Arrow_Constellation_40: 626324608030864510
+      32_Arrow_Constellation_41: 308362145289349247
+      32_Arrow_Constellation_42: 2044934559465024367
+      32_Arrow_Constellation_43: 2977669144434960508
+      32_Arrow_Constellation_44: 4352036911529826577
+      32_Arrow_Constellation_45: -2180034700094453991
+      32_Arrow_Constellation_46: -8078580396363371879
+      32_Arrow_Constellation_47: -9086521481944330359
+      32_Arrow_Constellation_48: -3240065298237477526
+      32_Arrow_Constellation_49: 9022322049994246026
+      32_Arrow_Constellation_5: 1661903429288769803
+      32_Arrow_Constellation_50: 2754720050803065358
+      32_Arrow_Constellation_51: -8286079581472778222
+      32_Arrow_Constellation_52: 7514348669405410205
+      32_Arrow_Constellation_53: -3967620775151642185
+      32_Arrow_Constellation_54: -2138199280206241025
+      32_Arrow_Constellation_55: 845903249095696563
+      32_Arrow_Constellation_56: 2982029008121703287
+      32_Arrow_Constellation_57: 3708956698104370709
+      32_Arrow_Constellation_58: 5344269128464558493
+      32_Arrow_Constellation_59: 7775669045058603538
+      32_Arrow_Constellation_6: -3460022088438060801
+      32_Arrow_Constellation_60: -3338222632713672400
+      32_Arrow_Constellation_61: -1781411285145307542
+      32_Arrow_Constellation_62: -6390728527082038556
+      32_Arrow_Constellation_63: 9010416116639048522
+      32_Arrow_Constellation_64: -7928510626318573866
+      32_Arrow_Constellation_65: 7611160643226897258
+      32_Arrow_Constellation_66: -1506866421222710449
+      32_Arrow_Constellation_67: -4298903763078026999
+      32_Arrow_Constellation_68: -1294285276079865741
+      32_Arrow_Constellation_69: 7392469814427012270
+      32_Arrow_Constellation_7: -3162212953866072125
+      32_Arrow_Constellation_70: 212996904480628780
+      32_Arrow_Constellation_71: -1273009435771337011
+      32_Arrow_Constellation_72: -3532923509628661462
+      32_Arrow_Constellation_73: -6393476758392410559
+      32_Arrow_Constellation_8: 6138245473428993715
+      32_Arrow_Constellation_9: -5754796896896448702
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
