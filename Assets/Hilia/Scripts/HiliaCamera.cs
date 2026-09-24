@@ -13,7 +13,8 @@ public class HiliaCamera : MonoBehaviour
         float halfWidth=view.orthographicSize*view.aspect;
         float halfLevel=(levelRight-levelLeft)*.5f;
         float x=halfWidth>=halfLevel?(levelLeft+levelRight)*.5f:Mathf.Clamp(player.position.x+lookAhead,levelLeft+halfWidth,levelRight-halfWidth);
-        transform.position=Vector3.Lerp(transform.position,new Vector3(x,height,-10),1-Mathf.Exp(-6*Time.deltaTime));
+        float y=Mathf.Max(height,player.position.y+1.2f);
+        transform.position=Vector3.Lerp(transform.position,new Vector3(x,y,-10),1-Mathf.Exp(-6*Time.deltaTime));
     }
 }
 
