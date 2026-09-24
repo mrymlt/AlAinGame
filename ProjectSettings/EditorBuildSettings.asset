@@ -11,6 +11,15 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/MainMenu.unity
     guid: b8d1b3138c6a1440e90441e591897f74
+  - enabled: 1
+    path: Assets/Scenes/FalajScene.unity
+    guid: 71f177f8aa5f84a8cb03b3717eeaf740
+  - enabled: 1
+    path: Assets/Scenes/JabalScene.unity
+    guid: 698c67eda17ed45968c4f1b0958d1651
+  - enabled: 1
+    path: Assets/Scenes/HiliaScene.unity
+    guid: e988e415d49b5594c9feea8b88641892
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
   m_UseUCBPForAssetBundles: 0
