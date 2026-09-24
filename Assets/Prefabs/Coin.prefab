@@ -9,6 +9,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 7460166631989954319}
+  - component: {fileID: 4051896824336218844}
   - component: {fileID: 6972879533467180967}
   - component: {fileID: 4326220893931219402}
   - component: {fileID: 1657901012230681423}
@@ -30,11 +31,29 @@ Transform:
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 2.45, y: -0.12, z: 0}
-  m_LocalScale: {x: 0.5344234, y: 0.5926008, z: 1}
+  m_LocalScale: {x: 0.5, y: 0.5, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &4051896824336218844
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3601791700276382035}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d9a13168ba0e043cf8be28f5486b403e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::SpriteLoop
+  frames:
+  - {fileID: 21300000, guid: a1eaa86d1f7304ba79c999e62e6f7b37, type: 3}
+  - {fileID: 21300000, guid: 8b5f25c5d2a444075afa00a50a3f50bc, type: 3}
+  frameRate: 6
+  sortingLayerName: 
+  sortingOrder: 0
 --- !u!212 &6972879533467180967
 SpriteRenderer:
   serializedVersion: 2
@@ -84,8 +103,8 @@ SpriteRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_MaskInteraction: 0
-  m_Sprite: {fileID: -2413806693520163455, guid: a86470a33a6bf42c4b3595704624658b, type: 3}
-  m_Color: {r: 0.8867924, g: 0.8637634, b: 0.4224813, a: 1}
+  m_Sprite: {fileID: 21300000, guid: a1eaa86d1f7304ba79c999e62e6f7b37, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
@@ -106,6 +125,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 60d03c1ca681e4d70adf9387bcac8366, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::CoinBehavior
+  collectSound: {fileID: 8300000, guid: caec45fe1fe6f4534a31467e406cf404, type: 3}
 --- !u!50 &1657901012230681423
 Rigidbody2D:
   serializedVersion: 5

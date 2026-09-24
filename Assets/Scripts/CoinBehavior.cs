@@ -2,6 +2,13 @@ using UnityEngine;
 
 public class CoinBehavior : MonoBehaviour
 {
+    [SerializeField] private AudioClip collectSound;
+    private AudioSource audioSource;
+
+    private void Awake()
+    {
+        audioSource = GetComponent<AudioSource>();
+    }
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
@@ -20,10 +27,23 @@ public class CoinBehavior : MonoBehaviour
     {
         if (collision.CompareTag("Player"))
         {
+            if (collectSound != null)
+            {
+                if (audioSource != null)
+                {
+                    audioSource.PlayOneShot(collectSound);
+                }
+                else
+                {
+                    AudioSource.PlayClipAtPoint(collectSound, transform.position);
+                }
+            }
+
             GameManager gameManager = FindObjectOfType<GameManager>();
             if (gameManager != null)
             {
-                gameManager.onCollectPoint();
+                TokenManager.Instance.Collect();
+               // gameManager.onCollectPoint();
             }
             Destroy(gameObject);
         }
