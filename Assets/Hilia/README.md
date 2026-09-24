@@ -4,12 +4,13 @@ Open `Assets/Scenes/HiliaScene.unity` in Unity and press Play. This is a separat
 
 ## Play
 
-- Read Abu Rashid and Shamma's introduction, followed by two short puzzle instructions.
+- Read Abu Rashid and Shamma's introduction, followed by puzzle and coin instructions.
 - Walk with A/D or the arrow keys. Jump with Space. On a phone, use the left, right and Jump buttons.
 - Approach the lever at the tomb. Press **E**, click/tap the lever, or tap **Use lever**.
 - Each press changes all four carvings. The correct order is **oryx — person — person — oryx**. From the starting arrangement, two presses solve it.
 - The gate rises, the Carved Stone counter becomes **1 / 1**, and the completion conversation opens.
 - **How to play** repeats the instructions. **Hint** gives the clue. Click or tap Shamma to replay the introduction or completed conversation.
+- Walk or jump through the 18 golden dallah coins along the path. Four coins are beyond the puzzle gate. Coins are optional and have a separate counter from the Carved Stone reward.
 
 Movement and puzzle input pause while dialogue is open. Close the dialogue with **X**, or continue through its pages.
 
@@ -38,6 +39,16 @@ The instructions are stored once: changing **How To Play** updates both the open
 All 45 sprite objects from Maryam's MissionOne were brought across. The tomb artwork, size and placement are preserved. The four interactive carvings use tighter copies of the same images to keep each figure readable. A continuous collider supports the sandy route; the copied decorative ground colliders are disabled. The camera follows the longer level and the lever retains its original press sound.
 
 The new scene reuses the project's Hili artwork, Shamma character, Abu Rashid/Shamma portraits, StateCycler and DoorUnlock. The four carving images have separate copies with tighter Unity sprite crops under `Assets/Hilia/Art`; the original assets are unchanged.
+
+## Coins
+
+Select **01 MissionOne - Hili Grand Tomb > 05 Coins** in the Hierarchy. Each numbered coin is a linked instance of **Assets/Prefabs/Coin.prefab**, using the existing two-frame dallah artwork, trigger, bobbing and pickup sound. Move a coin with the Move tool, or duplicate one with Ctrl+D. The displayed total is calculated automatically when Play starts.
+
+The existing root **TokenManager** tracks collected coins across scene changes during Play. **00 Systems > Coin collection - GameManager and counter** supplies the GameManager required by the existing pickup script and the small HiliaCoinCounter display script. **03 Interface > Safe area > Coins counter** displays coins collected during this visit to Hili. Reloading Hili restores its coins and resets that visit's display; it does not erase TokenManager's shared total. Stopping Play ends this temporary progress.
+
+The original Coin prefab, CoinBehavior, SpriteLoop and TokenManager scripts are unchanged. Scene instances override coin sorting order to keep the coins visible in front of the environment. Keep TokenManager at the scene root because it uses DontDestroyOnLoad.
+
+Coin checks in Unity covered real walking pickups, keyboard and touch jumps, paused dialogue, one count per pickup, all 18 placements, the original puzzle/gate, separate Carved Stone rewards, and reloading with a surviving TokenManager. Desktop and phone previews were checked.
 
 ## Scope and verification
 
