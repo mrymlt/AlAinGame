@@ -56,7 +56,7 @@ public class HiliaMission : MonoBehaviour
     void Refresh()
     {
         objectiveLabel.text=IsSolved?"HILI GRAND TOMB\nThe carvings are restored.":"HILI GRAND TOMB\nRestore the carved stones.";
-        tokenLabel.text=IsSolved?"CARVED STONE  1 / 1":"CARVED STONE  0 / 1";
+        if(tokenLabel!=null)tokenLabel.text=IsSolved?"CARVED STONE  1 / 1":"CARVED STONE  0 / 1";
     }
 }
 
