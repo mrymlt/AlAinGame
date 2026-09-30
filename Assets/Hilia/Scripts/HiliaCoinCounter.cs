@@ -28,6 +28,6 @@ public class HiliaCoinCounter : MonoBehaviour
         Collected = Mathf.Clamp(TokenManager.Instance.Collected - startingTokens, 0, Total);
         if (displayed == Collected) return;
         displayed = Collected;
-        label.text = $"COINS  {Collected} / {Total}";
+        label.text = $"Dirham  {Collected} / {Total}";
     }
 }
