@@ -585,7 +585,7 @@ MonoBehaviour:
     m_Bits: 8
   groundCheck: {fileID: 1808749638}
   groundCheckRadius: 0.15
-  jumpForce: 10
+  jumpForce: 18
   maxJumps: 2
   fallGravityMultiplier: 3
   lowJumpGravityMultiplier: 4
